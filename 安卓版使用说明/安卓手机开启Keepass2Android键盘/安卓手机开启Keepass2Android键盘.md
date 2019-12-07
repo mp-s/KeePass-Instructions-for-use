@@ -1,14 +1,17 @@
-# <a name="锚点0"></a>电脑KeePass软件新建条目和群组
+# <a name="锚点0"></a>安卓手机开启Keepass2Android键盘
 ### 1、添加记录
-<p><img src="/电脑KeePass软件新建条目和群组/1、添加记录.png" alt="/电脑KeePass软件新建条目和群组/1、添加记录.png"/></p>
+<p><img src="/安卓版使用说明/安卓手机开启Keepass2Android键盘/1、手机进入设置→点击系统.png" alt="/安卓版使用说明/安卓手机开启Keepass2Android键盘/1、手机进入设置→点击系统.png"/></p>
 
-### 2、添加记录的用户名和密码
-<p><img src="/电脑KeePass软件新建条目和群组/2、添加记录的用户名和密码.png" alt="/电脑KeePass软件新建条目和群组/2、添加记录的用户名和密码"/></p>
+### 2、点击语言和输入法
+<p><img src="/安卓版使用说明/安卓手机开启Keepass2Android键盘/2、点击语言和输入法.png" alt="/安卓版使用说明/安卓手机开启Keepass2Android键盘/2、点击语言和输入法.png"/></p>
 
-### 3、添加记录的字串字段和添加文件
-<p><img src="/电脑KeePass软件新建条目和群组/3、添加记录的字串字段和添加文件.png" alt="/电脑KeePass软件新建条目和群组/3、添加记录的字串字段和添加文件.png"/></p>
+### 3、点击屏幕键盘
+<p><img src="/安卓版使用说明/安卓手机开启Keepass2Android键盘/3、点击屏幕键盘.png" alt="/安卓版使用说明/安卓手机开启Keepass2Android键盘/3、点击屏幕键盘.png"/></p>
 
-### 4、添加群组用于记录的分类
-<p><img src="/电脑KeePass软件新建条目和群组/4、添加群组用于记录的分类.png" alt="/电脑KeePass软件新建条目和群组/4、添加群组用于记录的分类.png"/></p>
+### 4、点击管理键盘
+<p><img src="/安卓版使用说明/安卓手机开启Keepass2Android键盘/4、点击管理键盘.png" alt="/安卓版使用说明/安卓手机开启Keepass2Android键盘/4、点击管理键盘.png"/></p>
+
+### 5、开启Keepass2Android键盘
+<p><img src="/安卓版使用说明/安卓手机开启Keepass2Android键盘/5、开启Keepass2Android键盘.png" alt="/安卓版使用说明/安卓手机开启Keepass2Android键盘/5、开启Keepass2Android键盘.png"/></p>
 
 <a href="#锚点0">**返回顶部**</a>
